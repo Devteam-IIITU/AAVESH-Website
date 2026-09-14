@@ -21,12 +21,18 @@ export const DEVELOPERS = [
     name: 'Deep Shekhar Singh',
     rollNo: '24318',
     role: 'Frontend Developer',
-    image: '/deep.webp',
+    image: '/teamPhotos/deep.webp',
   },
   {
     name: 'Pulkit',
     rollNo: '24147',
     role: 'Frontend Developer',
     image: '/pulkit.webp',
+  },
+  {
+    name: 'Garv Saxena',
+    rollNo: '25BTCS046',
+    role: 'Backend Developer',
+    image: '/garv.webp',
   },
 ];
