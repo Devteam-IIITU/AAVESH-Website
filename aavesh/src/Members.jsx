@@ -771,4 +771,9 @@ export const Team = [
     rollNo: "26BTCS073",
     role: "",
   },
+  {
+    name: "Prince Sahu",
+    rollNo: "26BTEC053",
+    role: "",
+  },
 ];
