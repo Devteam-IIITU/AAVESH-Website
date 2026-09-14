@@ -722,11 +722,6 @@ export const Team = [
     role: "",
   },
   {
-    name: "Prakhar Gupta",
-    rollNo: "26BTCS097",
-    role: "",
-  },
-  {
     name: "Vatsalya Awasthi",
     rollNo: "26BTCS141",
     role: "",
