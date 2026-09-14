@@ -722,11 +722,6 @@ export const Team = [
     role: "",
   },
   {
-    name: "Prakhar Gupta",
-    rollNo: "26BTCS097",
-    role: "",
-  },
-  {
     name: "Vatsalya Awasthi",
     rollNo: "26BTCS141",
     role: "",
@@ -769,6 +764,11 @@ export const Team = [
   {
     name: "Krishna Soni",
     rollNo: "26BTCS073",
+    role: "",
+  },
+  {
+    name: "Prince Sahu",
+    rollNo: "26BTEC053",
     role: "",
   },
 ];
