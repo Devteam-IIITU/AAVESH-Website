@@ -16,18 +16,18 @@ const socials = [
     linkText: "linkedin.com/company/aavesh.iiitu",
   },
   {
-    link: "https://github.com/aavesh.iiitu",
+    link: "https://github.com/Devteam-IIITU/AAVESH-Website",
     icon: <GitHub />,
     text: "GitHub",
-    username: "aavesh.iiitu",
-    linkText: "github.com/aavesh.iiitu",
+    username: "Devteam-IIITU/AAVESH-Website",
+    linkText: "github.com/Devteam-IIITU/AAVESH-Website",
   },
   {
-    link: "mailto:clubaavesh@iiitu.ac.in",
+    link: "mailto:aavesh@iiitu.ac.in",
     icon: <Mail />,
     text: "Email",
-    username: "clubaavesh@iiitu.ac.in",
-    linkText: "clubaavesh@iiitu.ac.in",
+    username: "aavesh@iiitu.ac.in",
+    linkText: "aavesh@iiitu.ac.in",
   },
 ];
 
